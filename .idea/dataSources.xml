@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="darzak@morfeusz.wszib.edu.pl" uuid="ade4fd98-f832-4339-9441-49fd7cd51b36">
+      <driver-ref>sqlserver.ms</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.microsoft.sqlserver.jdbc.SQLServerDriver</jdbc-driver>
+      <jdbc-url>jdbc:sqlserver://morfeusz.wszib.edu.pl:1433;database=darzak</jdbc-url>
+      <driver-properties>
+        <property name="applicationName" value="DataGrip" />
+        <property name="databaseName" value="darzak" />
+      </driver-properties>
+    </data-source>
+  </component>
+</project>
